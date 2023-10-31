@@ -44,6 +44,11 @@ header img{
     margin-bottom: 30px;
 }
 
+header p{
+    font-size: 18px;
+    color: #5e5e5e;
+}
+
 header h1{
     font-size: 2em;
     margin-bottom: 10px;
@@ -65,9 +70,9 @@ a.link button{
     justify-content: space-between;
     border: none;
     border-radius: 30px;
-    font-size: 1.2em;
+    font-size: 1.3em;
     cursor: pointer;
-    color: #fff;
+    color: black;
     transition: .3s;
 }
 
@@ -92,4 +97,5 @@ footer a.btn-footer{
     border-radius: 50%;
     margin: 0 10px ;
     transition: .3s;
+    color: black;
 }
